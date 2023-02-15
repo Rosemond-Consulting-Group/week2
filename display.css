@@ -1,0 +1,15 @@
+img.block-image {
+  display: block;
+}
+
+li.inline-list {
+  display: inline;
+}
+
+div.hidden-div {
+  display: none;
+}
+
+img.invisible-image {
+  visibility: hidden;
+}
